@@ -450,12 +450,11 @@ body.dark-theme{
 }
 
 .home__social{
-  height: max-content;
   position: absolute;
   left: -3rem;
   top: 0;
   bottom: 0;
-  margin: auto 0;
+  align-content: center;
   display: grid;
   row-gap: 1rem;
 }
